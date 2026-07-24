@@ -1,0 +1,6 @@
+{
+  "name": "SSW Food Manufacturing Exam Prep",
+  "description": "Japanese Specified Skilled Worker (SSW No.1) Food and Beverage Manufacturing exam prep app with flashcards, practice quizzes, and progress analytics based on the 4th edition official textbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
